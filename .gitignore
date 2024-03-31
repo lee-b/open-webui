@@ -305,3 +305,4 @@ cypress/screenshots
 
 ollama-data/
 
+.vscode/
